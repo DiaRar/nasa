@@ -1,5 +1,5 @@
 # Radiation Shielding
-## Neutron and Gamma rays shielding
+## Neutron rays shielding
 Neutron shielding will be made with a 20cm layer of:  LiBH<sub>4</sub>  (lithium borohydride).<br>
 During research it is shown that only 0.038% of the neutrons make it through a 20 cm shield of natural LiBH4
 ***
